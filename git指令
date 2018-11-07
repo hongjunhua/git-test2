@@ -7,3 +7,12 @@ git指令：
 
 
 	二.提交
+		git add 提交到暂存库s
+		git add . 把当前所以文件提交到暂存库
+		git commit -m (文件名) 把文件从
+
+
+
+
+		git checkout -- index.html  把这个修改过的文件返回到上一次修改
+		git checkout -- .  把所有修改过的文件返回
