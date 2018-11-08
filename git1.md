@@ -200,3 +200,9 @@ git mv style.css style1.css
 
 
 
+四：git分支
+
+git branch  查看分支  *代表当前分支
+git branch +（）  创建分支
+git checkout +（） 切换分支
+git branch  -d +（） 删除分支
